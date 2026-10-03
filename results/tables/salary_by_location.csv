@@ -1,0 +1,248 @@
+Location,Mean,Median,Min,Max,Count
+"Mumbai Central, Mumbai, Maharashtra",3600000.0,3600000.0,3600000.0,3600000.0,1
+"Greater Noida, Uttar Pradesh",1455000.0,1455000.0,210000.0,2700000.0,2
+"Koramangala VI Bk, Bengaluru, Karnataka",939847.0,939847.0,939847.0,939847.0,1
+"Ambawadi, Ahmedabad, Gujarat",600000.0,600000.0,600000.0,600000.0,1
+"Kayankulam, Kerala",600000.0,600000.0,600000.0,600000.0,1
+"Ram Nagar, Nagpur, Maharashtra",600000.0,600000.0,600000.0,600000.0,1
+"Laxmi Nagar, Delhi, Delhi",600000.0,600000.0,600000.0,600000.0,1
+"T Nagar, Chennai, Tamil Nadu",570000.0,570000.0,570000.0,570000.0,1
+"Visakhapatnam, Andhra Pradesh",570000.0,570000.0,570000.0,570000.0,1
+"Belgachia, Kolkata, West Bengal",540000.0,540000.0,540000.0,540000.0,1
+"Nizamabad, Telangana",540000.0,540000.0,540000.0,540000.0,1
+"Thane, Maharashtra",508341.0,508341.0,386683.0,630000.0,2
+"Powai, Mumbai, Maharashtra",500000.0,500000.0,500000.0,500000.0,1
+"Andheri West, Mumbai, Maharashtra",474356.0,474356.0,198711.0,750000.0,2
+"Lucknow, Uttar Pradesh",425000.0,425000.0,300000.0,550000.0,2
+"Palsana, Surat, Gujarat",420000.0,420000.0,420000.0,420000.0,1
+"Ambli, Ahmedabad, Gujarat",500000.0,420000.0,420000.0,660000.0,3
+Goa,400000.0,400000.0,400000.0,400000.0,1
+"Manipala, Karnataka",390000.0,390000.0,390000.0,390000.0,1
+"Goa, Goa",390000.0,390000.0,390000.0,390000.0,1
+"Bommasandra Industrial Estate, Bengaluru, Karnataka",375000.0,375000.0,350000.0,400000.0,2
+"Technopark, Thiruvananthapuram, Kerala",360000.0,360000.0,360000.0,360000.0,1
+"Champa, Chhattisgarh",360000.0,360000.0,360000.0,360000.0,1
+"Kharadi, Pune, Maharashtra",360000.0,360000.0,360000.0,360000.0,1
+"Sai Baba Colony, Coimbatore, Tamil Nadu",360000.0,360000.0,360000.0,360000.0,1
+"Dwarka, Delhi, Delhi",360000.0,360000.0,360000.0,360000.0,1
+"Namakkal, Tamil Nadu",360000.0,360000.0,360000.0,360000.0,1
+"Durgapur, West Bengal",360000.0,360000.0,360000.0,360000.0,1
+"Muvattupuzha, Kerala",346500.0,346500.0,261000.0,432000.0,2
+"Ahmedabad, Gujarat",333333.0,339000.0,132000.0,550000.0,6
+"Karvenagar, Pune, Maharashtra",330000.0,330000.0,330000.0,330000.0,1
+"Vizhinjam, Thiruvananthapuram, Kerala",330000.0,330000.0,330000.0,330000.0,1
+"Pune, Maharashtra",799736.0,329209.0,150000.0,3300000.0,6
+"Tambaram, Chennai, Tamil Nadu",324000.0,324000.0,324000.0,324000.0,1
+"Kottivakkam, Chennai, Tamil Nadu",322200.0,322200.0,322200.0,322200.0,1
+"Pimpri-Chinchwad, Maharashtra",357991.0,318000.0,153607.0,675213.0,5
+"Whitefield, Bengaluru, Karnataka",315000.0,315000.0,315000.0,315000.0,1
+"Delhi, Delhi",329890.0,312000.0,10000.0,750000.0,13
+"Jaipur, Rajasthan",302500.0,302500.0,275000.0,330000.0,2
+"Mohali, Punjab",363667.0,300000.0,102000.0,960000.0,6
+"Pulivendla, Andhra Pradesh",300000.0,300000.0,300000.0,300000.0,1
+"Bopal, Ahmedabad, Gujarat",300000.0,300000.0,300000.0,300000.0,1
+"Jaipura, Rajasthan",300000.0,300000.0,300000.0,300000.0,1
+"Pallavaram, Chennai, Tamil Nadu",300000.0,300000.0,300000.0,300000.0,1
+"Mavelikara, Kerala",300000.0,300000.0,300000.0,300000.0,1
+"Ghumar Mandi, Ludhiana, Punjab",300000.0,300000.0,300000.0,300000.0,1
+"Kala Amb, Himachal Pradesh",300000.0,300000.0,240000.0,360000.0,2
+"Bellandur, Bengaluru, Karnataka",300000.0,300000.0,300000.0,300000.0,1
+"Kodungallur, Kerala",300000.0,300000.0,300000.0,300000.0,1
+"Rudarpur, Uttarakhand",300000.0,300000.0,300000.0,300000.0,1
+"Bhubaneswar, Orissa",282771.0,290543.0,160000.0,390000.0,4
+"Payyannur, Kerala",288000.0,288000.0,288000.0,288000.0,1
+"Domlur, Bengaluru, Karnataka",288000.0,288000.0,288000.0,288000.0,1
+"Saidapet, Chennai, Tamil Nadu",285000.0,285000.0,285000.0,285000.0,1
+"Patan, Gujarat",282000.0,282000.0,282000.0,282000.0,1
+"Ashok Vihar, Delhi, Delhi",282000.0,282000.0,282000.0,282000.0,1
+"Vadodara, Gujarat",289500.0,279000.0,222000.0,378000.0,4
+"Pollachi, Tamil Nadu",364500.0,279000.0,120000.0,780000.0,4
+"Noida, Uttar Pradesh",520048.0,276533.0,180000.0,2400000.0,11
+"Shimla, Himachal Pradesh",276216.0,276216.0,276216.0,276216.0,1
+"Venjaramudu, Kerala",270000.0,270000.0,270000.0,270000.0,1
+"Rajarajeshwari Nagar, Bengaluru, Karnataka",270000.0,270000.0,240000.0,300000.0,2
+"Kolkata, West Bengal",284842.0,270000.0,179369.0,420000.0,4
+"Pratap Nagar, Jaipur, Rajasthan",270000.0,270000.0,270000.0,270000.0,1
+"Chinnamanur, Tamil Nadu",270000.0,270000.0,270000.0,270000.0,1
+"Bellary, Karnataka",270000.0,270000.0,270000.0,270000.0,1
+"Chakan, Pune, Maharashtra",270000.0,270000.0,270000.0,270000.0,1
+"Chamba, Himachal Pradesh",270000.0,270000.0,270000.0,270000.0,1
+"Bengaluru, Karnataka",297850.0,267500.0,350.0,575000.0,36
+"Villupuram, Tamil Nadu",264000.0,264000.0,264000.0,264000.0,1
+"Sahibganj, Jharkhand",264000.0,264000.0,264000.0,264000.0,1
+"Nungambakkam, Chennai, Tamil Nadu",264000.0,264000.0,264000.0,264000.0,1
+"Mumbai, Maharashtra",296303.0,261000.0,138000.0,600000.0,10
+"Janakpuri, Delhi, Delhi",258000.0,258000.0,258000.0,258000.0,1
+"Salem, Tamil Nadu",260000.0,258000.0,252000.0,270000.0,3
+"Kuzhittura, Tamil Nadu",258000.0,258000.0,258000.0,258000.0,1
+"Sanjeeva Reddy Nagar, Hyderabad, Telangana",258000.0,258000.0,258000.0,258000.0,1
+"Jayanagar, Bengaluru, Karnataka",258000.0,258000.0,258000.0,258000.0,1
+"Shivaji Nagar, Pune, Maharashtra",258000.0,258000.0,258000.0,258000.0,1
+"Goregaon, Mumbai, Maharashtra",255000.0,255000.0,180000.0,330000.0,2
+"Mysuru, Karnataka",294000.0,255000.0,216000.0,450000.0,4
+"Vadapalani, Chennai, Tamil Nadu",255000.0,255000.0,240000.0,270000.0,2
+"Hyderabad, Telangana",259000.0,254000.0,210000.0,318000.0,4
+"Haripad, Kerala",252000.0,252000.0,252000.0,252000.0,1
+"Gurugram, Haryana",230662.0,251487.0,125000.0,318000.0,6
+Delhi,229333.0,250000.0,120000.0,318000.0,3
+"Ashapur, Varanasi, Uttar Pradesh",242126.0,242126.0,242126.0,242126.0,1
+"Mayur Vihar, Delhi, Delhi",242000.0,242000.0,234000.0,250000.0,2
+"Vastrapur, Ahmedabad, Gujarat",240000.0,240000.0,240000.0,240000.0,1
+"Nungambakkam High Road, Chennai, Tamil Nadu",240000.0,240000.0,240000.0,240000.0,1
+"Bikaner, Rajasthan",240000.0,240000.0,240000.0,240000.0,1
+"Kottayam, Kerala",221448.0,240000.0,132000.0,300000.0,9
+"Thiruvarur, Tamil Nadu",240000.0,240000.0,240000.0,240000.0,1
+"Yadgir, Karnataka",240000.0,240000.0,240000.0,240000.0,1
+"Sion, Mumbai, Maharashtra",240000.0,240000.0,240000.0,240000.0,1
+"Morbi, Gujarat",240000.0,240000.0,240000.0,240000.0,1
+"Jetalpur, Vadodara, Gujarat",240000.0,240000.0,240000.0,240000.0,1
+India,165627.0,240000.0,9.0,256872.0,3
+"Indraprastha H.O, Delhi, Delhi",240000.0,240000.0,240000.0,240000.0,1
+"Cannanore, Kerala",300000.0,240000.0,210000.0,450000.0,3
+"Salt Lake City, West Bengal",240000.0,240000.0,240000.0,240000.0,1
+"Vashi, Navi Mumbai, Maharashtra",240000.0,240000.0,240000.0,240000.0,1
+"Nashik, Maharashtra",239401.0,239401.0,66000.0,412802.0,2
+"Jagnath Plot, Rajkot, Gujarat",235000.0,235000.0,235000.0,235000.0,1
+"Dehradun, Uttarakhand",216344.0,234000.0,97032.0,318000.0,3
+"Talegaon Dabhade, Pune, Maharashtra",231000.0,231000.0,231000.0,231000.0,1
+"Surat, Gujarat",211333.0,228000.0,156000.0,250000.0,3
+"Calicut, Kerala",192732.0,227500.0,35.0,253360.0,6
+"Egmore, Chennai, Tamil Nadu",225697.0,225697.0,225697.0,225697.0,1
+"Nemmara, Kerala",225000.0,225000.0,225000.0,225000.0,1
+"Rajender Nagar, Delhi, Delhi",222000.0,222000.0,222000.0,222000.0,1
+"Peelamedu, Coimbatore, Tamil Nadu",222000.0,222000.0,222000.0,222000.0,1
+"Kasaragod, Kerala",222000.0,222000.0,222000.0,222000.0,1
+"Kidwaipuri, Patna, Bihar",222000.0,222000.0,222000.0,222000.0,1
+"Perumbavoor, Kerala",222000.0,222000.0,222000.0,222000.0,1
+"Mangalore, Karnataka",306000.0,219000.0,219000.0,480000.0,3
+"Tirupati, Andhra Pradesh",219000.0,219000.0,168000.0,270000.0,2
+"Hubli, Karnataka",274300.0,216900.0,216000.0,390000.0,3
+"Idukki, Kerala",216000.0,216000.0,216000.0,216000.0,1
+"Athgaon, Guwahati, Assam",216000.0,216000.0,216000.0,216000.0,1
+"Alleppey, Kerala",216000.0,216000.0,192000.0,240000.0,2
+"Pune District, Maharashtra",216000.0,216000.0,216000.0,216000.0,1
+"Udyog Bhawan, Delhi, Delhi",216000.0,216000.0,216000.0,216000.0,1
+"Chennai, Tamil Nadu",261248.0,214538.0,150000.0,545178.0,15
+"Coimbatore, Tamil Nadu",226702.0,213000.0,120000.0,600000.0,14
+"Erode, Tamil Nadu",191000.0,213000.0,96000.0,240000.0,6
+"Athwa, Surat, Gujarat",212500.0,212500.0,212500.0,212500.0,1
+"Perungudi, Chennai, Tamil Nadu",212220.0,212220.0,198000.0,226440.0,2
+"Varkkallai, Kerala",210000.0,210000.0,210000.0,210000.0,1
+"Thiruvananthapuram, Kerala",212667.0,210000.0,96000.0,336000.0,9
+"Tirur, Kerala",210000.0,210000.0,210000.0,210000.0,1
+"Sriperumpudur, Chennai, Tamil Nadu",210000.0,210000.0,210000.0,210000.0,1
+"Puducherry, Puducherry",210000.0,210000.0,186000.0,234000.0,2
+"Silvassa, Dadra and Nagar Haveli",210000.0,210000.0,210000.0,210000.0,1
+"Yelahanka, Bengaluru, Karnataka",210000.0,210000.0,210000.0,210000.0,1
+"Tiruppur, Tamil Nadu",257101.0,210000.0,144000.0,550000.0,7
+"Maldah, West Bengal",210000.0,210000.0,210000.0,210000.0,1
+"Ashoknagar, Bengaluru, Karnataka",210000.0,210000.0,210000.0,210000.0,1
+"Anna Nagar East, Chennai, Tamil Nadu",210000.0,210000.0,210000.0,210000.0,1
+"Kochi, Kerala",281412.0,210000.0,54000.0,2000000.0,39
+"Chandigarh, Chandigarh",240000.0,210000.0,180000.0,360000.0,4
+"Bolpur, West Bengal",210000.0,210000.0,210000.0,210000.0,1
+"Indore, Madhya Pradesh",210000.0,210000.0,150000.0,270000.0,2
+"Partibanur, Tamil Nadu",204000.0,204000.0,204000.0,204000.0,1
+"Simmakkal, Madurai, Tamil Nadu",204000.0,204000.0,204000.0,204000.0,1
+"Gandhipuram, Coimbatore, Tamil Nadu",204000.0,204000.0,204000.0,204000.0,1
+"Badli, Delhi, Delhi",204000.0,204000.0,204000.0,204000.0,1
+"Thrissur, Kerala",215100.0,201000.0,144000.0,360000.0,10
+"Nikol, Ahmedabad, Gujarat",198000.0,198000.0,198000.0,198000.0,1
+"Hugli, West Bengal",198000.0,198000.0,198000.0,198000.0,1
+"Ambattur, Chennai, Tamil Nadu",198000.0,198000.0,198000.0,198000.0,2
+"Delhi Cantt, Delhi, Delhi",196694.0,196694.0,196694.0,196694.0,1
+"INDERLOK, Delhi, Delhi",194553.0,194553.0,194553.0,194553.0,1
+"Madurai, Tamil Nadu",212750.0,194251.0,108000.0,360000.0,6
+"JNU New Campus, Delhi, Delhi",193200.0,193200.0,193200.0,193200.0,1
+"Manali, Chennai, Tamil Nadu",192000.0,192000.0,192000.0,192000.0,1
+"Kurukshetra, Haryana",192000.0,192000.0,192000.0,192000.0,1
+"Sholinghur, Tamil Nadu",192000.0,192000.0,192000.0,192000.0,1
+"Howrah, West Bengal",192000.0,192000.0,192000.0,192000.0,1
+"Kazhakoottam, Thiruvananthapuram, Kerala",192000.0,192000.0,144000.0,240000.0,2
+"Devanhalli, Karnataka",189900.0,189900.0,162000.0,217800.0,2
+"Kanpur, Uttar Pradesh",185000.0,185000.0,185000.0,185000.0,1
+"Ujjain, Madhya Pradesh",183000.0,183000.0,183000.0,183000.0,1
+"Kulasegaram, Tamil Nadu",183000.0,183000.0,183000.0,183000.0,1
+"Palghat, Kerala",181913.0,181913.0,115186.0,248640.0,2
+"Borivali East, Mumbai, Maharashtra",180000.0,180000.0,180000.0,180000.0,1
+"Chinchwad, Pune, Maharashtra",180000.0,180000.0,180000.0,180000.0,1
+"Nandanam, Chennai, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Ghaziabad, Uttar Pradesh",180000.0,180000.0,180000.0,180000.0,1
+"Raigarh, Chhattisgarh",180000.0,180000.0,180000.0,180000.0,1
+"Nesapakkam, Chennai, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Virudunagar, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Gundavali, Mumbai, Maharashtra",180000.0,180000.0,180000.0,180000.0,1
+"Himayatnagar, Hyderabad, Telangana",180000.0,180000.0,180000.0,180000.0,1
+"Kariavattom, Thiruvananthapuram, Kerala",180000.0,180000.0,180000.0,180000.0,1
+"Saravanampatti, Coimbatore, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Kokrajhar, Assam",180000.0,180000.0,180000.0,180000.0,1
+"Anna Nagar Western Extn, Chennai, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Pathanamthitta, Kerala",226667.0,180000.0,150000.0,350000.0,3
+"Perambalur, Tamil Nadu",180000.0,180000.0,180000.0,180000.0,1
+"Karimnagar, Telangana",174000.0,174000.0,174000.0,174000.0,1
+"Amravati, Maharashtra",174000.0,174000.0,174000.0,174000.0,1
+"Teynampet, Chennai, Tamil Nadu",174000.0,174000.0,168000.0,180000.0,2
+"Ghitorni, Delhi, Delhi",174000.0,174000.0,174000.0,174000.0,1
+"Saket, Delhi, Delhi",174000.0,174000.0,174000.0,174000.0,1
+"Chhati, Chhattisgarh",168000.0,168000.0,168000.0,168000.0,1
+"Chengannur, Kerala",168000.0,168000.0,168000.0,168000.0,1
+"Talawade, Pune, Maharashtra",168000.0,168000.0,168000.0,168000.0,1
+"Kazhakuttam, Kerala",168000.0,168000.0,168000.0,168000.0,1
+"Attur, Tamil Nadu",167622.0,167622.0,167622.0,167622.0,1
+"Rajkot, Gujarat",165000.0,165000.0,120000.0,210000.0,2
+"Amroha, Uttar Pradesh",162500.0,162500.0,162500.0,162500.0,1
+"Todupulai, Kerala",162000.0,162000.0,144000.0,180000.0,2
+"Karur, Tamil Nadu",162000.0,162000.0,162000.0,162000.0,1
+"Nagercoil, Tamil Nadu",172667.0,162000.0,156000.0,200000.0,3
+"Mandvi, Gujarat",162000.0,162000.0,162000.0,162000.0,1
+"Kollam, Kerala",144000.0,162000.0,108000.0,162000.0,3
+"Kavundampalayam, Coimbatore, Tamil Nadu",162000.0,162000.0,162000.0,162000.0,1
+"Gopichettipalaiyam, Tamil Nadu",162000.0,162000.0,162000.0,162000.0,1
+Remote,199755.0,156516.0,60.0,650000.0,73
+"Runkata, Agra, Uttar Pradesh",156000.0,156000.0,156000.0,156000.0,1
+"Junagadh, Gujarat",156000.0,156000.0,156000.0,156000.0,1
+"Rajsamand, Rajasthan",156000.0,156000.0,156000.0,156000.0,1
+"Kodaikanal, Tamil Nadu",156000.0,156000.0,156000.0,156000.0,1
+"Gulbarga, Karnataka",154164.0,154164.0,154164.0,154164.0,1
+"Aluva, Kerala",151500.0,151500.0,126000.0,177000.0,2
+"Uppal Kalan, Hyderabad, Telangana",150000.0,150000.0,150000.0,150000.0,1
+"Tuticorin, Tamil Nadu",150000.0,150000.0,150000.0,150000.0,1
+"Barddhaman, West Bengal",150000.0,150000.0,150000.0,150000.0,1
+"Chinna Chokkikulam, Madurai, Tamil Nadu",150000.0,150000.0,150000.0,150000.0,1
+"Mundakayam, Kerala",150000.0,150000.0,120000.0,180000.0,2
+"Dharwad District, Karnataka",150000.0,150000.0,150000.0,150000.0,1
+"Edapalli, Kerala",150000.0,150000.0,150000.0,150000.0,1
+"Nagpur, Maharashtra",145500.0,145500.0,123000.0,168000.0,2
+"R.S.Puram West, Tamil Nadu",144000.0,144000.0,144000.0,144000.0,1
+"Poojappura, Thiruvananthapuram, Kerala",144000.0,144000.0,144000.0,144000.0,1
+"Moshi, Pune, Maharashtra",144000.0,144000.0,144000.0,144000.0,1
+"Ashoknagar, Madhya Pradesh",144000.0,144000.0,144000.0,144000.0,1
+"Santacruz West, Mumbai, Maharashtra",144000.0,144000.0,144000.0,144000.0,1
+"Pattom, Thiruvananthapuram, Kerala",144000.0,144000.0,126000.0,162000.0,2
+"Tiruchchirappalli, Tamil Nadu",138600.0,138600.0,133200.0,144000.0,2
+"Ashok Nagar, Ranchi, Jharkhand",138000.0,138000.0,138000.0,138000.0,1
+"Nilambur, Kerala",138000.0,138000.0,138000.0,138000.0,1
+"Tiruvalla, Kerala",138000.0,138000.0,138000.0,138000.0,1
+"Baddi, Himachal Pradesh",137500.0,137500.0,125000.0,150000.0,2
+"Navlakha, Indore, Madhya Pradesh",132000.0,132000.0,132000.0,132000.0,1
+"Navadwip, West Bengal",132000.0,132000.0,132000.0,132000.0,1
+"Dharmsala, Himachal Pradesh",132000.0,132000.0,132000.0,132000.0,1
+"Kangayam, Tamil Nadu",132000.0,132000.0,132000.0,132000.0,1
+"New Alipur, Kolkata, West Bengal",123000.0,123000.0,123000.0,123000.0,1
+"Udumalaippettai, Tamil Nadu",120000.0,120000.0,120000.0,120000.0,1
+"Ganapathi, Coimbatore, Tamil Nadu",120000.0,120000.0,120000.0,120000.0,1
+"Samastipur, Bihar",120000.0,120000.0,120000.0,120000.0,1
+"Vasai, Maharashtra",120000.0,120000.0,120000.0,120000.0,1
+"Vypin, Kerala",120000.0,120000.0,120000.0,120000.0,1
+"Shastripuram, Agra, Uttar Pradesh",120000.0,120000.0,120000.0,120000.0,1
+"Mira Road, Mumbai, Maharashtra",114000.0,114000.0,114000.0,114000.0,1
+"Edappal, Kerala",108000.0,108000.0,108000.0,108000.0,1
+"Pappanaickenpalayam, Coimbatore, Tamil Nadu",108000.0,108000.0,108000.0,108000.0,1
+"Aruppukkottai, Tamil Nadu",102000.0,102000.0,102000.0,102000.0,1
+"Ramanathapuram, Tamil Nadu",99000.0,99000.0,90000.0,108000.0,2
+"Habra, West Bengal",90000.0,90000.0,90000.0,90000.0,1
+"Zirakpur, Punjab",84000.0,84000.0,84000.0,84000.0,1
+"Thiruvananthapuram District, Kerala",78000.0,78000.0,78000.0,78000.0,1
+"Satellite, Ahmedabad, Gujarat",72000.0,72000.0,72000.0,72000.0,1
+Kerala,72000.0,72000.0,72000.0,72000.0,1
+"Tenkasi, Tamil Nadu",67500.0,67500.0,3000.0,132000.0,2

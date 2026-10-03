@@ -1,0 +1,11 @@
+Metric,Value
+Total Jobs,835.0
+Jobs with Salary,598.0
+Unique Job Titles,709.0
+Unique Locations,296.0
+Unique States,29.0
+Mean Salary (INR),266321.83425585285
+Median Salary (INR),216000.0
+Min Salary (INR),9.0
+Max Salary (INR),3600000.0
+Std Dev (INR),273122.5755925699
